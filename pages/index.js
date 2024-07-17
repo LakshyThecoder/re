@@ -1,4 +1,3 @@
-// pages/index.js
 import dynamic from 'next/dynamic'
 
 const Spline = dynamic(() => import('@splinetool/react-spline'), {
